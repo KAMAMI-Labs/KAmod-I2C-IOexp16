@@ -21,7 +21,7 @@ int i;
 void setup() {
   Serial.begin(115200);
   Serial.println();
-  Serial.println("Hello. KAmod Level Shift x4 tester");
+  Serial.println("Hello. KAmod IOexp16 test");
 
   pinMode(LED_PIN, OUTPUT);
   digitalWrite(LED_PIN, HIGH);
