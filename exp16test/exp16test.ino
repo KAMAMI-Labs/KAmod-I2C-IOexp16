@@ -1,3 +1,4 @@
+//ino board: ESP32-WROOM-DA Module
 #include <Wire.h>
 #include <Adafruit_MCP23X17.h>
 
